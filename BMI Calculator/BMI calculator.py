@@ -16,4 +16,3 @@ def bmifunc(name, height_m, weight_kg):
 result = bmifunc(name, height_m, weight_kg)
 print(result)
 print(" ")
-print(" ")
